@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/sv-necklaces-sets.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-08-04T15:43:03-04:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6950664732838</id>
+    <published>2021-08-04T15:43:03-04:00</published>
+    <updated>2021-08-04T15:43:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3312"/>
+    <title>(1-3308-2) Gold Laminate - 2.5mm Beads Rosary Necklace - 20&quot; -  BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1932673923.jpg?v=1628108477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Gold Laminate Beads Rosary Necklace.</p>
+<p data-mce-fragment="1">Guadalupe Virgin.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">2.5mm Beads.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Available in size </span>20".</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">*Note*</span><br data-mce-fragment="1"><span data-mce-fragment="1">BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6950664732838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-3308</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6893068419238</id>
+    <published>2021-07-07T15:09:12-04:00</published>
+    <updated>2021-07-07T15:09:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3364"/>
+    <title>(1-3364) Gold Laminate - 4.5mm Beads Rosary Necklace - 22&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1226061666.jpg?v=1625686164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Divine Child.</p>
+<p><span>4.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 22''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893068419238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>1-3364</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6893064716454</id>
+    <published>2021-07-07T15:06:12-04:00</published>
+    <updated>2021-07-07T15:06:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3362"/>
+    <title>(1-3362) Gold Laminate - 3.5mm Beads Rosary Necklace - 24&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-479913586.jpg?v=1625686038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p><span>3.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 24''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893064716454</id>
+      <title>SAINT JUDE TADEO</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>1-3362</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893064716454</id>
+      <title>CARIDAD DEL COBRE VIRGIN</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>1-3362</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6893059113126</id>
+    <published>2021-07-07T15:03:05-04:00</published>
+    <updated>2021-07-07T15:03:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3361"/>
+    <title>(1-3361) Gold Laminate - 4.5mm Beads Rosary Necklace - 24&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_dfdb70b6-75de-4745-8ead-f84abb0254fd.png?v=1625685701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Three Tones Beads Rosary Necklace.</p>
+<p><span>4.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 24''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893059113126</id>
+      <title>SAINT BENITO</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3361</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893059113126</id>
+      <title>GUADALUPE VIRGIN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3361</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6893056131238</id>
+    <published>2021-07-07T15:01:24-04:00</published>
+    <updated>2021-07-07T15:01:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3360"/>
+    <title>(1-3360) Gold Laminate - 3mm Beads Rosary Necklace - 20&apos;&apos; - BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_4df73d71-5baa-4e51-b010-0aeec7b389b8.png?v=1625685288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Saint Lazaro.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 20''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6893056131238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>1-3360</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892803260582</id>
+    <published>2021-07-07T12:53:31-04:00</published>
+    <updated>2021-07-07T12:53:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3358-1"/>
+    <title>(1-3358-1) Gold Laminate - 2.5mm Beads Rosary Necklace - 18&apos;&apos;- BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-14400850.jpg?v=1625682367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Three Tones Beads Rosary Necklace.</p>
+<p>Miraculous Virgin.</p>
+<p><span>2.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892803260582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3358-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892800802982</id>
+    <published>2021-07-07T12:51:19-04:00</published>
+    <updated>2021-07-07T12:51:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3358"/>
+    <title>(1-3358) Gold Laminate - 3mm Beads Rosary Necklace - 21&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_f6e7d77f-aa40-446c-b4c2-bbc997d8ddb1.png?v=1625682342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Caridad del Cobre Virgin.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 21''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892800802982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3358</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892798705830</id>
+    <published>2021-07-07T12:49:45-04:00</published>
+    <updated>2021-07-07T12:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3357-1"/>
+    <title>(1-3357-1) Gold Laminate - 3mm Beads Rosary Necklace - 18&apos;&apos;- BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-790918030.jpg?v=1625689910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Miraculous Virgin.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892798705830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3357-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892792217766</id>
+    <published>2021-07-07T12:45:45-04:00</published>
+    <updated>2021-07-07T12:45:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3357"/>
+    <title>(1-3357) Gold Laminate - 3mm Beads Rosary Necklace - 20&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-638807870.jpg?v=1625681903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Divine Mercy.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 20''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892792217766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3357</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892789956774</id>
+    <published>2021-07-07T12:43:41-04:00</published>
+    <updated>2021-07-07T12:43:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3356-1"/>
+    <title>(1-3356-1) Gold Laminate - 4mm Crystals Rosary Necklace - 18&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-26410478.jpg?v=1625681796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Red Crystals Rosary Necklace.</p>
+<p>Guadalupe Virgin.</p>
+<p><span>4mm Crystals.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892789956774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-3356-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892788088998</id>
+    <published>2021-07-07T12:42:03-04:00</published>
+    <updated>2021-07-07T12:42:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3356"/>
+    <title>(1-3356) Gold Laminate - 4mm Pearls Rosary Necklace - 17.5&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1076558093.jpg?v=1625681714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Pearls Rosary Necklace.</p>
+<p>Guadalupe Virgin.</p>
+<p><span>4mm Pearls.</span></p>
+<p><span data-mce-fragment="1">Available in size 17.5''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892788088998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-3356</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892783304870</id>
+    <published>2021-07-07T12:39:07-04:00</published>
+    <updated>2021-07-07T12:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3355"/>
+    <title>(1-3355) Gold Laminate - 3mm Beads Rosary Necklace - 18&apos;&apos;- BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1239918971.jpg?v=1625681563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892783304870</id>
+      <title>MIRACULOUS VIRGIN</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3355</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892783304870</id>
+      <title>SACRED HEART OF JESUS</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3355</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892779634854</id>
+    <published>2021-07-07T12:37:17-04:00</published>
+    <updated>2021-07-07T12:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3354-1"/>
+    <title>(1-3354-1) Gold Laminate - 3.5mm Beads Rosary Necklace - 18&apos;&apos;- BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1104722046.jpg?v=1625681385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Mary Virgin.</p>
+<p><span>3.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892779634854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>1-3354-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892771115174</id>
+    <published>2021-07-07T12:33:24-04:00</published>
+    <updated>2021-07-07T12:33:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3354"/>
+    <title>(1-3354) Gold Laminate - 5mm Beads Rosary Necklace - 24&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1114747962.jpg?v=1625681287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Saint Jude Tadeo.</p>
+<p><span>5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 24''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892771115174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>1-3354</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892761776294</id>
+    <published>2021-07-07T12:27:28-04:00</published>
+    <updated>2021-07-07T12:27:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3353"/>
+    <title>(1-3353) Gold Laminate - 6mm Pearls Rosary Necklace - 24&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-788159599.jpg?v=1625681164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Pearls Rosary Necklace.</p>
+<p>Madonna Virgin.</p>
+<p><span>6mm Pearls.</span></p>
+<p><span data-mce-fragment="1">Available in size 24''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892761776294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>1-3353</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892754567334</id>
+    <published>2021-07-07T12:22:59-04:00</published>
+    <updated>2021-07-07T12:22:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3351"/>
+    <title>(1-3351) Gold Laminate - 3mm Beads Rosary Necklace - 17.5&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1506684787.jpg?v=1625681017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 17.5''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892754567334</id>
+      <title>MIRACULOUS VIRGIN</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-3351</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892754567334</id>
+      <title>CARIDAD DEL COBRE VIRGIN</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-3351</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892749652134</id>
+    <published>2021-07-07T12:20:02-04:00</published>
+    <updated>2021-07-07T12:20:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3350-1"/>
+    <title>(1-3350-1) Gold Laminate - 3mm Pearls Rosary Necklace - 17.5&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-54275914.jpg?v=1625680845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Pearls Rosary Necklace.</p>
+<p>Miraculous Virgin.</p>
+<p><span>3mm Pearls.</span></p>
+<p><span data-mce-fragment="1">Available in size 17.5''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892749652134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-3350-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892743426214</id>
+    <published>2021-07-07T12:16:32-04:00</published>
+    <updated>2021-07-07T12:16:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3350"/>
+    <title>(1-3350) Gold Laminate - 3mm Pearls Rosary Necklace - 18&apos;&apos;- BGF.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-2061806073.jpg?v=1625680675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Pearls Rosary Necklace.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892743426214</id>
+      <title>DIVINE CHILD</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-3350</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892743426214</id>
+      <title>MIRACULOUS VIRGIN</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-3350</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892739002534</id>
+    <published>2021-07-07T12:13:25-04:00</published>
+    <updated>2021-07-07T12:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3349"/>
+    <title>(1-3349) Gold Laminate - 3.5mm Beads Rosary Necklace - 18&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1805208471.jpg?v=1625680471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p><span>Mary Virgin.</span></p>
+<p><span>3.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18''.</span></p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892739002534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>1-3349</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892733595814</id>
+    <published>2021-07-07T12:09:06-04:00</published>
+    <updated>2021-07-07T12:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3347"/>
+    <title>(1-3347) Gold Laminate - 5mm Pearls Rosary Necklace - 20&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-2133219117.jpg?v=1625680281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Pearls Rosary Necklace.</p>
+<p><span>5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 20</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892733595814</id>
+      <title>GUADALUPE VIRGIN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3347</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892733595814</id>
+      <title>DIVINE CHILD</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3348</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892730777766</id>
+    <published>2021-07-07T12:07:18-04:00</published>
+    <updated>2021-07-07T12:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3346"/>
+    <title>(1-3346) Gold Laminate - 3mm Beads Rosary Necklace - 18&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-429548003.jpg?v=1625679985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Caridad del Cobre Virgin.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 18</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892730777766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-3346</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892726616230</id>
+    <published>2021-07-07T12:04:24-04:00</published>
+    <updated>2021-07-07T12:04:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3345-1"/>
+    <title>(1-3345-1) Gold Laminate - 3mm Beads Rosary Necklace - 20&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-444342227.jpg?v=1625679868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Caridad del Cobre Virgin.</p>
+<p><span>3mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 20</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892726616230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>1-3345-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892722913446</id>
+    <published>2021-07-07T12:02:27-04:00</published>
+    <updated>2021-07-07T12:02:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3345"/>
+    <title>(1-3345) Gold Laminate - 3.5mm Stones Rosary Necklace - 17&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1462573036.jpg?v=1625679735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Stones Rosary Necklace.</p>
+<p>Guadalupe Virgin.</p>
+<p><span>3.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 17</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892722913446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>1-3345</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892718686374</id>
+    <published>2021-07-07T11:59:56-04:00</published>
+    <updated>2021-07-07T11:59:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3343-1"/>
+    <title>(1-3343-1) Gold Laminate - 5mm Beads Rosary Necklace - 24&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-44603344.jpg?v=1625679622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Caridad del Cobre Virgin.</p>
+<p><span>5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 24</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892718686374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3343-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6892715311270</id>
+    <published>2021-07-07T11:57:57-04:00</published>
+    <updated>2021-07-07T11:57:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-3343"/>
+    <title>(1-3343) Gold Laminate - 3.5mm Beads Rosary Necklace - 24.5&apos;&apos;- BGO.</title>
+    <s:type>rosaries</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-598303184.jpg?v=1625679502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>rosaries<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Beads Rosary Necklace.</p>
+<p>Divine Child.</p>
+<p><span>3.5mm Beads.</span></p>
+<p><span data-mce-fragment="1">Available in size 24.5</span>".</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Rosaries</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6892715311270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-3343</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

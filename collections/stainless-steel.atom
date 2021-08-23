@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/stainless-steel.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-02-04T07:46:27-05:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6116696653990</id>
+    <published>2021-02-04T07:46:27-05:00</published>
+    <updated>2021-02-04T07:46:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/4-7075-e10-stainless-neacklace-and-earring-pearl-set-18-adjustable-length-12mm-earrings-30mm-center-pearl"/>
+    <title>4-7075-e10 Stainless Necklace and Earring Pearl Set.</title>
+    <s:type>Sets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Sets<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4-7075-e10 Stainless Necklace and Earring pearl Set. 18" adjustable length, 12mm earrings. 30mm center pearl.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sets</s:tag>
+    <s:tag>Stainless Steel</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6116696653990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>4-7075-e10</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6116689412262</id>
+    <published>2021-02-04T07:44:49-05:00</published>
+    <updated>2021-02-04T07:44:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/4-2131-f10-stainless-steel-25mm-oval-hoops-40mm-long-with-flat-rope-design"/>
+    <title>4-2131-f10 Stainless Steel 25mm Oval Hoops. 40mm Long with Flat Rope Design.</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4-2131-f10 Stainless Steel 25mm Oval Hoops. 40mm Long with Flat Rope Design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Stainless Steel</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6116689412262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>4-2131-f10</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6116617027750</id>
+    <published>2021-02-04T07:26:24-05:00</published>
+    <updated>2021-02-04T07:26:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/4-2040-h9-stainless-steel-moving-cross-pendant-2"/>
+    <title>(4-2040-h9) Stainless Steel Moving Cross Pendant, 2&quot;.</title>
+    <s:type>Pendants</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Pendants<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Cross is 25 mm wide by 2" inches in length.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>Pendants</s:tag>
+    <s:tag>Stainless Steel</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6116617027750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>4-2040-h9</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

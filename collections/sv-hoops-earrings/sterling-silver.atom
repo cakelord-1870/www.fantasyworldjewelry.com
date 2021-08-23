@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/sv-hoops-earrings.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-08-20T16:51:36-04:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980797137062</id>
+    <published>2021-08-20T16:51:36-04:00</published>
+    <updated>2021-08-20T16:51:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2678"/>
+    <title>(1-2677) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-192974091.jpg?v=1629495548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A:  6.5mm x 31.5mm</p>
+<p>B, C:   4mm x 24mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980797137062</id>
+      <title>A</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2677-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980797137062</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2677-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980797137062</id>
+      <title>C</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2677-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980793958566</id>
+    <published>2021-08-20T16:48:36-04:00</published>
+    <updated>2021-08-20T16:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2677"/>
+    <title>(1-2676) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1861370127.jpg?v=1629495517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A:   7.5mm x 25mm</p>
+<p>B:   3mm x 28mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980793958566</id>
+      <title>A</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980793958566</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980791697574</id>
+    <published>2021-08-20T16:46:30-04:00</published>
+    <updated>2021-08-20T16:46:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2675-f-h"/>
+    <title>(1-2676 F-H) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1761801550.jpg?v=1629495452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A:   3.5mm x 19mm</p>
+<p>B:   9.5mm x 20.5mm</p>
+<p>C:  10mm x 19.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980791697574</id>
+      <title>A</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-H</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980791697574</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-F</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980791697574</id>
+      <title>C</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980788093094</id>
+    <published>2021-08-20T16:43:41-04:00</published>
+    <updated>2021-08-20T16:43:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2675-d-e"/>
+    <title>(1-2676 D-E) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-312967883.jpg?v=1629495408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B, C:  8.5mm x 17mm</p>
+<p>D:  4mm x 17.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980788093094</id>
+      <title>A</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980788093094</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980788093094</id>
+      <title>C</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980788093094</id>
+      <title>D</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-2676-E</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980785176742</id>
+    <published>2021-08-20T16:40:37-04:00</published>
+    <updated>2021-08-20T16:40:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2675-a-g"/>
+    <title>(1-2675 A-G) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1913205483.jpg?v=1629495275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A:  4mm x 27mm</p>
+<p>B:  8.5mm x 19mm</p>
+<p>C: 7.5mm x 20.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980785176742</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2675-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980785176742</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2675-G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980785176742</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2675-F</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980783866022</id>
+    <published>2021-08-20T16:39:26-04:00</published>
+    <updated>2021-08-20T16:39:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2676"/>
+    <title>(1-2675) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1536190134.jpg?v=1629495010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B:  16mm x 10mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980783866022</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2675-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980783866022</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2675-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980781899942</id>
+    <published>2021-08-20T16:37:50-04:00</published>
+    <updated>2021-08-20T16:37:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2674-1"/>
+    <title>(1-2674-1) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1691648125.jpg?v=1629494965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B:  8mm x 19mm</p>
+<p>C;   8mm x 18.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980781899942</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-1-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980781899942</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-1-E</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980781899942</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-1-F</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980774723750</id>
+    <published>2021-08-20T16:33:38-04:00</published>
+    <updated>2021-08-20T16:33:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2674-d"/>
+    <title>(1-2674-D) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-2099143376.jpg?v=1629494854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A-C; 4mm x 19.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980774723750</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980774723750</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980774723750</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980773019814</id>
+    <published>2021-08-20T16:32:17-04:00</published>
+    <updated>2021-08-20T16:32:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2674-b"/>
+    <title>(1-2674-B) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1760807810.jpg?v=1629494803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A-D:  4mm x 20mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980773019814</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980773019814</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980773019814</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980773019814</id>
+      <title>D</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6980770660518</id>
+    <published>2021-08-20T16:29:58-04:00</published>
+    <updated>2021-08-20T16:29:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2675"/>
+    <title>(1-2674) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1202353451.jpg?v=1629494764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A-D:  6mm x 19.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980770660518</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980770660518</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980770660518</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6980770660518</id>
+      <title>D</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2674-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+    <published>2021-08-19T17:09:16-04:00</published>
+    <updated>2021-08-19T17:09:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2673-1-c"/>
+    <title>(1-2673-1-C) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_5d3a7a30-b8d7-4296-8a1b-4f4aecfc029d.png?v=1629410009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A-F:  5mm x 19.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>D</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>E</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979085500582</id>
+      <title>F</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979081961638</id>
+    <published>2021-08-19T17:05:23-04:00</published>
+    <updated>2021-08-19T17:05:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2673-1"/>
+    <title>(1-2673-1) Gold Laminate - White and Black Square Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1655964156.jpg?v=1629409913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate White and Black Square Hoops Huggies.</p>
+<p>13.5mm in girth.</p>
+<p>Available in sizes: 20.5mm.</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979081961638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979079078054</id>
+    <published>2021-08-19T17:03:21-04:00</published>
+    <updated>2021-08-19T17:03:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2674"/>
+    <title>(1-2673) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-194830571.jpg?v=1629409879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A-D:  5.5mm x 20mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979079078054</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979079078054</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979079078054</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979079078054</id>
+      <title>D</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2673-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979075604646</id>
+    <published>2021-08-19T16:59:54-04:00</published>
+    <updated>2021-08-19T16:59:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2673"/>
+    <title>(1-2672) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1866553606.jpg?v=1629409837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B, C:  3.5mm x 22mm</p>
+<p>D:   12.5mm x 21.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979075604646</id>
+      <title>A</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2672-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979075604646</id>
+      <title>B</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2672-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979075604646</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2672-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979075604646</id>
+      <title>D</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-2672-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979073147046</id>
+    <published>2021-08-19T16:57:41-04:00</published>
+    <updated>2021-08-19T16:57:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2671-a"/>
+    <title>(1-2671-A) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_e0a29c06-21de-4b00-bc19-27292a5d28b6.png?v=1629409780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B:  6.5mm x 17.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979073147046</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2671 A-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979073147046</id>
+      <title>B</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2671 A-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979070197926</id>
+    <published>2021-08-19T16:54:56-04:00</published>
+    <updated>2021-08-19T16:54:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2672"/>
+    <title>(1-2671) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1122535586.jpg?v=1629409707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A:  7.5mm x 20mm</p>
+<p>B, C:  5.5mm x 10.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979070197926</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2671-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979070197926</id>
+      <title>B</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2671-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979070197926</id>
+      <title>C</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2671-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979066396838</id>
+    <published>2021-08-19T16:51:52-04:00</published>
+    <updated>2021-08-19T16:51:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2671"/>
+    <title>(1-2670) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-842693860.jpg?v=1629409622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p>A, B, C: 5mm x 16mm</p>
+<p>D:  5mm x 17.5mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979066396838</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2670-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979066396838</id>
+      <title>B</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2670-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979066396838</id>
+      <title>C</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2670-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979066396838</id>
+      <title>D</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2670-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979062235302</id>
+    <published>2021-08-19T16:47:30-04:00</published>
+    <updated>2021-08-19T16:47:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2669-c"/>
+    <title>(1-2669-C) Gold Laminate - Crystals Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-2121515436.jpg?v=1629409542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Crystals Hoops.</p>
+<p>6.5mm in girth.</p>
+<p>Available in sizes: 19mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979062235302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+    <published>2021-08-19T16:44:59-04:00</published>
+    <updated>2021-08-19T16:44:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2670"/>
+    <title>(1-2669) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_55da401d-28e3-44b1-a9d4-00aa78ba6668.png?v=1629409524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p><span>A-F:  8mm x 16mm</span></p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>B</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>C</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>D</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>E</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979059417254</id>
+      <title>F</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2669-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6979055517862</id>
+    <published>2021-08-19T16:41:40-04:00</published>
+    <updated>2021-08-19T16:41:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2669"/>
+    <title>(1-2668) Gold Laminate Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1680882469.jpg?v=1629409451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Hoops.</p>
+<p>Available in sizes:</p>
+<p><span>A:  9mm x 17.5mm</span></p>
+<p><span>B:  5mm x 16mm</span></p>
+<p><span>C:  5.5mm x 16.5mm</span></p>
+<p><span>D:  6.5mm x 17mm</span></p>
+<p> *Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979055517862</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2668-B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979055517862</id>
+      <title>B</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2668-C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979055517862</id>
+      <title>C</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2668-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6979055517862</id>
+      <title>D</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2668-D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978986049702</id>
+    <published>2021-08-19T15:40:56-04:00</published>
+    <updated>2021-08-19T15:40:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2668-e"/>
+    <title>(1-2668-E) Gold Laminate - Crystals Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-843777229.jpg?v=1629405569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Crystals Hoops Huggies.</p>
+<p>1.5mm in girth.</p>
+<p>Crystals; 3.5mm</p>
+<p>Available in sizes: 11mm</p>
+<p>*Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978986049702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-2668-E</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978981036198</id>
+    <published>2021-08-19T15:36:05-04:00</published>
+    <updated>2021-08-19T15:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2652-a"/>
+    <title>(1-2652-A) Gold Laminate - Multicolor Eyes Hoops - BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-886298356.jpg?v=1629405538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Multicolor Eyes Hoops Huggies.</p>
+<p>2.5mm in girth.</p>
+<p>Available in sizes: 15mm.</p>
+<p> *Note*<br></p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978981036198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>1-2652-A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978973434022</id>
+    <published>2021-08-19T15:29:59-04:00</published>
+    <updated>2021-08-19T15:29:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2663-e-f"/>
+    <title>(1-2663 E-F) Gold Laminate - Eyes Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-122442015.jpg?v=1629405474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Eyes Hoops.</p>
+<p>A, B:  9mm x 12mm</p>
+<p> *Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978973434022</id>
+      <title>A</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>1-2663-E</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978973434022</id>
+      <title>B</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>1-2663-E</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978968649894</id>
+    <published>2021-08-19T15:26:05-04:00</published>
+    <updated>2021-08-19T15:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2663-g"/>
+    <title>(1-2663-G) Gold Laminate - Red Turtle Hoops- BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1835929735.jpg?v=1629405500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Laminate Red Turtle Hoops.</p>
+<p>9mm in girth.</p>
+<p>Available in sizes: 12mm.</p>
+<p> *Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978968649894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>1-2663-G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978959016102</id>
+    <published>2021-08-19T15:18:06-04:00</published>
+    <updated>2021-08-19T15:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2611-f"/>
+    <title>(1-2611-F) Gold Laminate - Plane Post Half Hoops Earrings - BGO</title>
+    <s:type>Hoops</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-91913509.jpg?v=1629405411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Hoops<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Plane Post Half Hoops Earrings.</span></p>
+<p>5mm in girth.</p>
+<p>Available in Size: 26mm.</p>
+<p> *Note*</p>
+<p><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978959016102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-2611-F</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

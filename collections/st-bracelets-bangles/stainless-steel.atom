@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/st-bracelets-bangles.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-08-19T15:11:58-04:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6978949742758</id>
+    <published>2021-08-19T15:11:58-04:00</published>
+    <updated>2021-08-19T15:11:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0654"/>
+    <title>(1-0654) Gold Laminate - 4mm Multicolor Bracelet - BGO</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_378027b5-2e22-4266-ad37-0b715a974e82.png?v=1629405311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Multicolor Bracelet.<br></p>
+<p data-mce-fragment="1">4mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7'', 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978949742758</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>1-0654</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6978949742758</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>1-0654</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6965122695334</id>
+    <published>2021-08-11T17:46:37-04:00</published>
+    <updated>2021-08-11T17:46:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-60044"/>
+    <title>(1-60044) Gold Laminate - 4.5mm Figaro Link Men Bracelet- 7.5&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-865709108.jpg?v=1628790122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRASIL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Men Figaro Link Bracelet.</p>
+<p>4.5mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6965122695334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-60044</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6965108408486</id>
+    <published>2021-08-11T17:44:51-04:00</published>
+    <updated>2021-08-11T17:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-60035"/>
+    <title>(1-60035) Gold Laminate - Men 8mm Flat Marine Bracelet - 8&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_4c569ee2-e8a8-4368-ac6f-ac921242edb6.png?v=1628790092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRASIL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Men Flat Marine Bracelet.</p>
+<p>8mm in girth.</p>
+<p data-mce-fragment="1">Available in size 8".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6965108408486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>1-60035</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6965087994022</id>
+    <published>2021-08-11T17:41:49-04:00</published>
+    <updated>2021-08-11T17:41:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-60029"/>
+    <title>(1-60029) Gold Laminate - Men 5mm Flat Marine Bracelet - 8&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-760978907.jpg?v=1628790011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRASIL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Men Flat Marine Bracelet.</p>
+<p>5mm in girth.</p>
+<p data-mce-fragment="1">Available in size 8".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6965087994022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>1-60029</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964830011558</id>
+    <published>2021-08-11T15:27:25-04:00</published>
+    <updated>2021-08-11T15:27:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0901"/>
+    <title>(1-0901) Gold Laminate - 3mm Figaro Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.02.55.jpg?v=1628710250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Figaro Bracelets with Charms.</p>
+<p data-mce-fragment="1">3mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms: 10mm.</p>
+<p data-mce-fragment="1">Available in size 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964830011558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>1-0901</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964743569574</id>
+    <published>2021-08-11T14:45:18-04:00</published>
+    <updated>2021-08-11T14:45:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0482"/>
+    <title>(1-0482) Gold Laminate - Paper Clips Bracelets- BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.06.47.jpg?v=1628709352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Paper Clips Bracelets</p>
+<p data-mce-fragment="1">A:  5.5mm</p>
+<p>B, C:  5mm</p>
+<p>Available in size 7.5''. </p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964743569574</id>
+      <title>A</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0482</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964743569574</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0482</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964743569574</id>
+      <title>C</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0482</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964734722214</id>
+    <published>2021-08-11T14:40:25-04:00</published>
+    <updated>2021-08-11T14:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0452"/>
+    <title>(1-0452-1) Gold Laminate - 3mm Rolo Link Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.04.21.jpg?v=1628709185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Rolo Link Bracelets with Lock Charms.</p>
+<p data-mce-fragment="1">3mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms: 8mm.</p>
+<p data-mce-fragment="1">Available in size 7.5''. Extension.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964734722214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0452</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964729970854</id>
+    <published>2021-08-11T14:37:55-04:00</published>
+    <updated>2021-08-11T14:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0491"/>
+    <title>(1-0491) Gold Laminate - 3mm Figaro Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.03.43.jpg?v=1628709605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Figaro Bracelets with Travels Charms.</p>
+<p data-mce-fragment="1">3mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms: 14mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964729970854</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>1-0491</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964729970854</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>1-0491</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964723318950</id>
+    <published>2021-08-11T14:33:43-04:00</published>
+    <updated>2021-08-11T14:33:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0513"/>
+    <title>(1-0513) Gold Laminate - 3.5mm Cuban Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.01.55.jpg?v=1628709031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cuban Bracelets with Charms.</p>
+<p data-mce-fragment="1">3.5mm in girth.</p>
+<p data-mce-fragment="1">Medals Charms: 11mm.</p>
+<p data-mce-fragment="1">Crystals Charms: 6mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964723318950</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>1-0513</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964723318950</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>1-0513</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964719059110</id>
+    <published>2021-08-11T14:30:54-04:00</published>
+    <updated>2021-08-11T14:30:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0510"/>
+    <title>(1-0510) Gold Laminate - 2.5mm Figaro Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-03.01.11.jpg?v=1628708999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Figaro Bracelets with Social Media Charms.</p>
+<p data-mce-fragment="1">2.5mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms: 12mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964719059110</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-0510</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964719059110</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>1-0510</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964707164326</id>
+    <published>2021-08-11T14:24:21-04:00</published>
+    <updated>2021-08-11T14:24:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0467"/>
+    <title>(1-0467) Gold Laminate - 5.5mm Cuban Bracelets w/Charms - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_0b402968-7469-4567-902b-c3f3b1f9dd0e.png?v=1628708956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cuban Bracelets with Charms.</p>
+<p data-mce-fragment="1">5.5mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms: 15mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964707164326</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>1-0467</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964707164326</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>1-0467</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964696842406</id>
+    <published>2021-08-11T14:17:25-04:00</published>
+    <updated>2021-08-11T14:17:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0457"/>
+    <title>(1-0457) Gold Laminate - 5mm Paper Clips Bracelets w/Puff Marine - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-02.59.38.jpg?v=1628708899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Paper Clips Bracelets w/Puff Marine.</p>
+<p data-mce-fragment="1">5mm in girth.</p>
+<p data-mce-fragment="1">Puff Marine: 9mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964696842406</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0457</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964696842406</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0457</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6964685144230</id>
+    <published>2021-08-11T14:11:45-04:00</published>
+    <updated>2021-08-11T14:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0663"/>
+    <title>(1-0663) Gold Laminate - 3mm D/C Cuban Bracelet w/Eye - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_08-11-02.58.58.jpg?v=1628708867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">D/C Cuban Bracelet w/Eye.<br></p>
+<p data-mce-fragment="1">3mm in girth.</p>
+<p data-mce-fragment="1">Eye: 11mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964685144230</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-0663</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6964685144230</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-0663</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6962234785958</id>
+    <published>2021-08-10T13:53:18-04:00</published>
+    <updated>2021-08-10T13:53:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mbra-14"/>
+    <title>(MBRA-14) Gold Laminate - Box Bracelets w/Eyes - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1570723851.jpg?v=1628619014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Box Bracelets with Eyes. </p>
+<p>1mm in girth.</p>
+<p>Eyes: 6mm.</p>
+<p>Adjustable.</p>
+<p>Choose the desired style.</p>
+<p> <strong><span data-mce-fragment="1">*Note*</span></strong></p>
+<p><strong><span data-mce-fragment="1">BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">BGO=Brazilian Gold Overlay</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962234785958</id>
+      <title>LIGHT BLUE</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>MBRA-14</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962234785958</id>
+      <title>DARK BLUE</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>MBRA-14</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6962229051558</id>
+    <published>2021-08-10T13:51:05-04:00</published>
+    <updated>2021-08-10T13:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mbra-13"/>
+    <title>(MBRA-13) Gold Laminate - Multicolor Bracelets w/Pearls - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-787592544.jpg?v=1628618996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multicolor Bracelets with Pearls. </p>
+<p>4.5mm in girth.</p>
+<p>Pearls: 7mm</p>
+<p>Available in Size: 7'', 7.5''.</p>
+<p>Choose the desired style.</p>
+<p> <strong><span data-mce-fragment="1">*Note*</span></strong></p>
+<p><strong><span data-mce-fragment="1">BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">BGO=Brazilian Gold Overlay</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962229051558</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MBRA-13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962229051558</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MBRA-13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6962199888038</id>
+    <published>2021-08-10T13:39:36-04:00</published>
+    <updated>2021-08-10T13:39:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mbra-12"/>
+    <title>(MBRA-12) Gold Laminate - Rolo Bracelets w/Pearls - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1719842247.jpg?v=1628618973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4.50 - 8.00
+            <a href="https://www.fantasyworldjewelry.com/products/mbra-12">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rolo Bracelets with Pearls. </p>
+<p>A:  3mm (Rolo), 5mm(Paper Clip), 6mm(Pearls).</p>
+<p>B:  3mm(Rolo), 9.5mm(Pearls), 16.5(Charm).</p>
+<p>Available in Size: 7'', 7.5''.</p>
+<p>Choose the desired style.</p>
+<p> <strong><span data-mce-fragment="1">*Note*</span></strong></p>
+<p><strong><span data-mce-fragment="1">BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">BGO=Brazilian Gold Overlay</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962199888038</id>
+      <title>A / 7&apos;&apos;</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MBRA-12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962199888038</id>
+      <title>A / 7.5&apos;&apos;</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MBRA-12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962199888038</id>
+      <title>B / 7&apos;&apos;</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MBRA-12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962199888038</id>
+      <title>B / 7.5&apos;&apos;</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MBRA-12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6962178556070</id>
+    <published>2021-08-10T13:32:20-04:00</published>
+    <updated>2021-08-10T13:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mbra-11"/>
+    <title>(MBRA-11) Gold Laminate- Balls Link Bracelets - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-610323805.jpg?v=1628618944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            3.00 - 6.00
+            <a href="https://www.fantasyworldjewelry.com/products/mbra-11">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Balls Link Bracelets. </p>
+<p>A:  6mm. Adjustable.</p>
+<p>B:  4 mm x 7.5''.</p>
+<p>C:  8mm. Adjustable.</p>
+<p>D:  8mm x 7.5''.</p>
+<p><span>Choose the desired style.</span></p>
+<p> <strong><span data-mce-fragment="1">*Note*</span></strong></p>
+<p><strong><span data-mce-fragment="1">BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">BGO=Brazilian Gold Overlay</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962178556070</id>
+      <title>A</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MBRA-11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962178556070</id>
+      <title>B</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>MBRA-11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962178556070</id>
+      <title>C</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MBRA-11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6962178556070</id>
+      <title>D</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>MBRA-11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6954173989030</id>
+    <published>2021-08-06T15:40:38-04:00</published>
+    <updated>2021-08-06T15:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0444"/>
+    <title>(1-0444) Gold Laminate Bracelet - 3mm Rope Link - 7&quot;,7.5&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-570082021.jpg?v=1628280157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRASIL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Rope Link Chain Bracelet.</p>
+<p data-mce-fragment="1">3mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6954173989030</id>
+      <title>7&quot;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0444</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6954173989030</id>
+      <title>7.5&quot;</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0444</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6950678724774</id>
+    <published>2021-08-04T15:52:19-04:00</published>
+    <updated>2021-08-04T15:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0688"/>
+    <title>(1-0688) Gold Laminate Bracelet - 2.5mm Rolo Link w/ Azabache- 7.5&quot;- BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>GL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-323863870.jpg?v=1628108403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Rolo Link w/ Azabache and Lucky Charms</p>
+<p data-mce-fragment="1">2.5mm in girth.</p>
+<p data-mce-fragment="1">Measures About Charms : 7mm.</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6950678724774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>1-0688</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6950058852518</id>
+    <published>2021-08-04T09:39:20-04:00</published>
+    <updated>2021-08-04T09:39:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0734-gold-laminate-4mm-cuban-link-bracelets-w-elephants-and-beads-7-5-bgo"/>
+    <title>(1-0734) Gold Laminate -4mm Curb Link Bracelets w/ Elephants and Beads- 7.5&quot; -BGO</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-854745475.jpg?v=1628084657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Curb Link Bracelet w/ Elephants and Beads. </p>
+<p data-mce-fragment="1">4mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6950058852518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-0734</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6950050103462</id>
+    <published>2021-08-04T09:35:48-04:00</published>
+    <updated>2021-08-04T09:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0756-1-gold-laminate-4mm-pearl-link-bracelets-w-shells-7-5-bgo"/>
+    <title>(1-0756-1) Gold Laminate -4mm Pearl Link Bracelets w/ Shells- 7.5&quot; -BGO</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1170064679_52bec83c-1e68-400e-8392-2ceb6fca592b.jpg?v=1628084645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pearl Link Bracelet w/Shells. </p>
+<p data-mce-fragment="1">4mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6950050103462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0756-1</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6947696509094</id>
+    <published>2021-08-03T10:02:06-04:00</published>
+    <updated>2021-08-03T10:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0430"/>
+    <title>(1-0430) Gold Laminate - 3.5mm Bismarck Link Bracelet - 7.5&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1972249352.jpg?v=1628000467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRASIL<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bismarck Link Bracelet </p>
+<p>3.5mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br></p>
+<p data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6947696509094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0430</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6947667214502</id>
+    <published>2021-08-03T09:35:11-04:00</published>
+    <updated>2021-08-03T09:35:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0476"/>
+    <title>(1-0476) Gold Laminate - 4mm Figaro w/Hamza Link Bracelet  - 7.5&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1435000787.jpg?v=1628000419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Figaro with Hamza Link Bracelet.</p>
+<p data-mce-fragment="1">4mm in girth.</p>
+<p data-mce-fragment="1">Hamza: 12.5mm</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6947667214502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>1-0476</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6943532908710</id>
+    <published>2021-07-31T16:24:01-04:00</published>
+    <updated>2021-07-31T16:24:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0462"/>
+    <title>(1-0462) Gold Laminate Bracelet - 3mm Balls Link w/Charms - 7&quot; - BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-169164723.jpg?v=1627763652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Balls Link Bracelet with Lucky Charms.</p>
+<p>5.5mm in girth.</p>
+<p>Measures About Charms: 11mm.</p>
+<p data-mce-fragment="1">Available in size 7", 7.5''.</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6943532908710</id>
+      <title>7&apos;&apos;</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-0462</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6943532908710</id>
+      <title>7.5&apos;&apos;</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-0462</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6943528059046</id>
+    <published>2021-07-31T16:20:20-04:00</published>
+    <updated>2021-07-31T16:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-0526"/>
+    <title>(1-0526) Gold Laminate Bracelet -10.5mm Link Elephant Bracelet- 7.5&apos;&apos;-BGF</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>bls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1311096562.jpg?v=1627763611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bls<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Link Elephant Bracelet.</p>
+<p data-mce-fragment="1">10.5mm in girth.</p>
+<p data-mce-fragment="1">Available in size 7.5".</p>
+<p data-mce-fragment="1">*Note*<br data-mce-fragment="1">BGF=Brazilian Gold Filled<br data-mce-fragment="1"><br data-mce-fragment="1">BGO=Brazilian Gold Overlay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6943528059046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>1-0526</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

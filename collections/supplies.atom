@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/supplies.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-07-31T16:49:36-04:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6943558107302</id>
+    <published>2021-07-31T16:49:36-04:00</published>
+    <updated>2021-07-31T16:49:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-2"/>
+    <title>(Supplies-22) Identification Price Thread Tags- Elephant Hyde- 5x8 inches.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_15bcabc6-6db6-47ae-9afe-8ec334cabc0b.png?v=1627764935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Identification and Price Tags. The package come with about 1000 tags.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6943558107302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+    <published>2021-07-29T11:21:13-04:00</published>
+    <updated>2021-07-29T11:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-22"/>
+    <title>(Supplies-17) Nylon Gift Bags - 6x5 inches - 50 pack</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_07-29-04.42.26.jpg?v=1627591534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Gift Bags - 6 x 5 inches - 50 pack </p>
+<p>Available in Different Colors And Designs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>B</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>C</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>D</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>E</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>F</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939309113510</id>
+      <title>G</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 17</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939280146598</id>
+    <published>2021-07-29T11:12:05-04:00</published>
+    <updated>2021-07-29T11:12:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-19"/>
+    <title>(Supplies-18) Nylon Jewelry Bags - 100 Pack</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_07-29-12.09.39.jpg?v=1627591685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            1.50 - 5.50
+            <a href="https://www.fantasyworldjewelry.com/products/supplies-19">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Jewelry Bags </p>
+<p>Available in Sizes:</p>
+<p>A:  2x3 inches</p>
+<p>B:  3x4 inches</p>
+<p>C:  6x8 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939280146598</id>
+      <title>A</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>Supplies - 18</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939280146598</id>
+      <title>B</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>Supplies - 18</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939280146598</id>
+      <title>C</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Supplies - 18</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939235319974</id>
+    <published>2021-07-29T10:59:57-04:00</published>
+    <updated>2021-07-29T10:59:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-14"/>
+    <title>(Supplies-14) White Bust Display - 5.5x7.5 inches</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-56738230.jpg?v=1627590730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Flat White Bust Display</span></p>
+<p><span data-mce-fragment="1">5.5x7.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939235319974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>Supplies - 14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+    <published>2021-07-29T10:18:58-04:00</published>
+    <updated>2021-07-29T10:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-12"/>
+    <title>(Supplies-12) Gift Box - 3x2 inches - 24 pieces.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1759832745.jpg?v=1627590588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box - 3x2" inches.</p>
+<p>24 pieces.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Brown</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Yellow</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Pink</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies -12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Red</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939152416934</id>
+      <title>Purple</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939147075750</id>
+    <published>2021-07-29T10:14:54-04:00</published>
+    <updated>2021-07-29T10:14:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-11"/>
+    <title>(Supplies-11) Green Gift Box - 2x1.5 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1303983429.jpg?v=1627590514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box - 2x1.5" inches.</p>
+<p>12pc Assorted Colors.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939147075750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Supplies - 11</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+    <published>2021-07-29T10:06:32-04:00</published>
+    <updated>2021-07-29T10:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-10"/>
+    <title>(Supplies-10) Gift Box - 1.5x1.5 inches - 24 pieces.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1861718535.jpg?v=1627590453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box - 1.5x1.5" inches.</p>
+<p>24 pieces.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Green</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Yellow</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Red</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939137474726</id>
+      <title>Purple</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+    <published>2021-07-29T09:57:42-04:00</published>
+    <updated>2021-07-29T09:57:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-09"/>
+    <title>(Supplies-09) Gift Box - 2.5x3.5 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_07-29-02.38.10.jpg?v=1627583958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box - 2.5x3.5" inches.</p>
+<p>12pc Assorted Colors.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Green</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Yellow</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Pink</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Red</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939128922278</id>
+      <title>Purple</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Supplies - 09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6939127251110</id>
+    <published>2021-07-29T09:54:23-04:00</published>
+    <updated>2021-07-29T09:54:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-08"/>
+    <title>(Supplies-08) Gift Box - 4x3 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_e4e5dac5-1173-4c3e-bd4c-df7571cd26c9.png?v=1627583775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box for Bracelets and Bangles - 4x3 inches.</p>
+<p>12 pieces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939127251110</id>
+      <title>Brown</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Supplies - 8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6939127251110</id>
+      <title>Grey</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Supplies - 8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937526010022</id>
+    <published>2021-07-28T17:45:57-04:00</published>
+    <updated>2021-07-28T17:45:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-07"/>
+    <title>(Supplies-07) Gift Box - 6x4 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_1f4bbb13-aa0d-4381-a35f-eea0241618ef.png?v=1627566839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            5.00 - 10.00
+            <a href="https://www.fantasyworldjewelry.com/products/supplies-07">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Box for Bracelets and Bangles - 6x4 inches.</p>
+<p>12 pieces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937526010022</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Supplies - 7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937526010022</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Supplies - 7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937526010022</id>
+      <title>Gold</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Supplies - 7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937485967526</id>
+    <published>2021-07-28T17:27:42-04:00</published>
+    <updated>2021-07-28T17:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-23"/>
+    <title>(Supplies-19) Identification Price Tags- Elephant Hyde- 5x8 inches.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-579760599.jpg?v=1627591771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Identification and Price Tags. The package come with about 500 tags.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937485967526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Supplies - 19</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937485738150</id>
+    <published>2021-07-28T17:27:28-04:00</published>
+    <updated>2021-07-28T17:27:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-06"/>
+    <title>(Supplies-06) Cotton Filled Gold Gift Box - 1x2.5 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_b9f45d9e-f2ef-44df-9083-e5b5091cf26a.png?v=1627508565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton Filled Dozen Gift Box 1x2.5 inches</p>
+<p>12 pieces. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937485738150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Supplies - 06</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937478332582</id>
+    <published>2021-07-28T17:22:05-04:00</published>
+    <updated>2021-07-28T17:22:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-05"/>
+    <title>(Supplies-05) Cotton Filled Gold Gift Box - 5.5x7 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_72be6339-3346-44b5-8f3d-975058a4d04e.png?v=1627508501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton Filled Dozen Gift Box 5.5x7 inches</p>
+<p>12 pieces. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937478332582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Supplies - 05</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937476726950</id>
+    <published>2021-07-28T17:20:45-04:00</published>
+    <updated>2021-07-28T17:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-17"/>
+    <title>(Supplies - 16) Mesh Gift Bags - 3.5x3.5 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_50863663-7a0a-4e4a-a516-a273328f3996.png?v=1627575918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mesh Gift Bags available in different sizes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937476726950</id>
+      <title>Green</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Supplies - 16</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937476726950</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Supplies - 16</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937476726950</id>
+      <title>Yellow</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Supplies - 16</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937476726950</id>
+      <title>Purple</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Supplies - 16</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937471844518</id>
+    <published>2021-07-28T17:16:22-04:00</published>
+    <updated>2021-07-28T17:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-04"/>
+    <title>(Supplies-04) Cotton Filled Gift Box - 5x7 inches - Dozen</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_45fb4873-cba4-42a0-a1d4-ed3ea0362acd.png?v=1627508042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.00 - 10.00
+            <a href="https://www.fantasyworldjewelry.com/products/supplies-04">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton Filled Dozen Gift Box 5x7 inches</p>
+<p>12 pieces. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937471844518</id>
+      <title>White</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Supplies - 4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937471844518</id>
+      <title>Grey</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Supplies - 4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937443893414</id>
+    <published>2021-07-28T17:07:28-04:00</published>
+    <updated>2021-07-28T17:07:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-21"/>
+    <title>(Supplies-21) Silver Jewelry Liquid Cleaner.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1413452370.jpg?v=1627591883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safe Liquid Cleaning for Silver jewelry. Please check the instructions before use it. </p>
+<p>8 fl. oz.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937443893414</id>
+      <title>A</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Supplies - 21</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937443893414</id>
+      <title>B</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Supplies - 21</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937436651686</id>
+    <published>2021-07-28T17:03:25-04:00</published>
+    <updated>2021-07-28T17:03:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-20"/>
+    <title>(Supplies-20) Silver Jewelry Polishing Cloth.</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-603439058.jpg?v=1627591839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            1.99 - 2.50
+            <a href="https://www.fantasyworldjewelry.com/products/supplies-20">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Cleans, Shines and Protects Silver and Platinum.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937436651686</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>Supplies - 20</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937436651686</id>
+      <title>Grey</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Supplies - 20</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937413517478</id>
+    <published>2021-07-28T16:45:20-04:00</published>
+    <updated>2021-07-28T16:45:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-00"/>
+    <title>(mfin-gf-00) Gold Filled Findings - 2&apos;&apos; Extension - BGF</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/PicsArt_07-29-05.07.36.jpg?v=1627592917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            1.75 - 2.00
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-00">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Extension is 2" inches in length. </span></p>
+<p><span data-mce-fragment="1">Price is for one piece.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937413517478</id>
+      <title>A</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>(mfin-gf-00)-1</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937413517478</id>
+      <title>B</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>(mfin-gf-00)-1</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937403424934</id>
+    <published>2021-07-28T16:42:24-04:00</published>
+    <updated>2021-07-28T16:42:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/supplies-11-acrylic-gift-box-1-75x1-75-dozen"/>
+    <title>(Supplies-13) Bust Display - 4.5x6.5 inches</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1788191596.jpg?v=1627590683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Flat Bust Display Available in different colors </span></p>
+<p><span data-mce-fragment="1">4.5x6.5 inches</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxes</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937403424934</id>
+      <title>Red</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Supplies-11</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937403424934</id>
+      <title>Black</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Supplies-11</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937150161062</id>
+    <published>2021-07-28T15:22:42-04:00</published>
+    <updated>2021-07-28T15:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-61-62"/>
+    <title>(mfin-gf-61-62) Gold Filled Findings - Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-849309930.jpg?v=1627501175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            1.50 - 4.00
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-61-62">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   4.5mm</p>
+<p>B:   5mm x 3mm </p>
+<p>C:   8mm x 4mm</p>
+<p>Please select the letter of the item you want, the price is by the dozen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937150161062</id>
+      <title>A</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MFIN-62</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937150161062</id>
+      <title>B</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MFIN-61-1</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937150161062</id>
+      <title>C</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MFIN-61</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+    <published>2021-07-28T15:14:05-04:00</published>
+    <updated>2021-07-28T15:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-52-58"/>
+    <title>(mfin-gf-52-58) Gold Filled Findings. Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-114425999.jpg?v=1627500954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            1.00 - 27.00
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-52-58">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   3mm</p>
+<p>B:   2mm x 7mm </p>
+<p>C:   3mm x 9.5mm</p>
+<p>D:   1mm x 8mm</p>
+<p>E:    4.5mm x 7.5mm</p>
+<p>F:    9mm</p>
+<p>G:    10mm x 19mm</p>
+<p>Please select the letter of the item you want, the price is by the dozen.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>A</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>MFIN-58</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>B</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>MFIN-53</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>C</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MFIN-52</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>D</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MFIN-54</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>E</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MFIN-54</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>F</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>MFIN-55</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937110347942</id>
+      <title>G</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MFIN-57</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+    <published>2021-07-28T15:05:30-04:00</published>
+    <updated>2021-07-28T15:05:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-45-51"/>
+    <title>(mfin-gf-45-51) Gold Filled Findings. Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-1404265509.jpg?v=1627500930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            2.50 - 12.50
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-45-51">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   2mm x 7mm</p>
+<p>B:   3mm x 9mm </p>
+<p>C:   5.5mm x 16mm</p>
+<p>D:   5mm x 9mm</p>
+<p>E:    5.5mm x 12mm</p>
+<p>Please select the letter of the item you want, the price is by the dozen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MFIN-45</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+      <title>B</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>MFIN-46</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+      <title>C</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>MFIN-47</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+      <title>D</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>MFIN-50</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937069125798</id>
+      <title>E</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>MFIN-51</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+    <published>2021-07-28T14:59:14-04:00</published>
+    <updated>2021-07-28T14:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-40-43"/>
+    <title>(mfin-gf-40-43) Gold Filled Findings. Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-432348030.jpg?v=1627500905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            8.50 - 20.00
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-40-43">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   1mm x 18mm</p>
+<p>B:   4mm x 15mm </p>
+<p>C:   2mm x 19mm</p>
+<p>D:   12mm</p>
+<p>E:    15.5mm</p>
+<p>Please select the letter of the item you want, the price is by the dozen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+      <title>A</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>MFIN-40</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+      <title>B</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>MFIN-41</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+      <title>C</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>MFIN-41</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+      <title>D</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>MFIN-42</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6937035112614</id>
+      <title>E</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MFIN-43</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+    <published>2021-07-28T13:34:53-04:00</published>
+    <updated>2021-07-28T13:34:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-30-39"/>
+    <title>(mfin-gf-30-39) Gold Filled Findings. Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-512994443.jpg?v=1627500851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            2.50 - 40.00
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-30-39">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   5.5mm</p>
+<p>B:   5mm x 6mm </p>
+<p>C:   4mm x 10mm</p>
+<p>D:   6mm x 11.5mm</p>
+<p>E:    4mm x 10mm</p>
+<p>F:    6mm x 19mm</p>
+<p>G:    6mm</p>
+<p>H:    3mm</p>
+<p>I:     15mm</p>
+<p>Please select the letter of the item you want, the price is by the dozen.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MFIN-31</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>B</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>MFIN-33</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>C</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>MFIN-34</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>D</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>MFIN-33-1</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>E</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>MFIN-36</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>F</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MFIN-37</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>G</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MFIN-30</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>H</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>MFIN-38</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936591106214</id>
+      <title>I</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MFIN-39</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+    <published>2021-07-28T13:31:09-04:00</published>
+    <updated>2021-07-28T13:31:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/mfin-gf-25-29"/>
+    <title>(mfin-gf-25-29) Gold Filled Findings. Jewelry Making (dozen)</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/Snapchat-2522431.jpg?v=1627500828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            0.85 - 4.80
+            <a href="https://www.fantasyworldjewelry.com/products/mfin-gf-25-29">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the part of jewelry for making your own design!<br></p>
+<p>A:   3mm</p>
+<p>B:   4mm </p>
+<p>C:   5mm</p>
+<p>D:   6mm</p>
+<p>E:    7mm</p>
+<p> Please select the letter of the item you want, the price is by the dozen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Findings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+      <title>A</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>MFIN-58</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+      <title>B</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>MFIN-26</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+      <title>C</title>
+      <s:price currency="USD">2.80</s:price>
+      <s:sku>MFIN-27</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+      <title>D</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>MFIN-28</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6936573706406</id>
+      <title>E</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>MFIN-29</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fantasyworldjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fantasyworldjewelry.com/collections/gl-earrings-1.atom"/>
+  <title>Fantasy World Jewelry</title>
+  <updated>2021-06-17T16:42:11-04:00</updated>
+  <author>
+    <name>Fantasy World Jewelry</name>
+  </author>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6852010311846</id>
+    <published>2021-06-17T16:42:11-04:00</published>
+    <updated>2021-06-17T16:42:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-2902"/>
+    <title>(1-2902) Brazilian Gold Filled Balls Hoops Earrings-BGF</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>WLF-33388901</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/IMAGE_EDIT_5f23c28d-6566-439b-9ebb-c51e214f7ba5.png?v=1627917269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WLF-33388901<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BGF Gold Laminate Balls Hoops.</p>
+<p>Available in size:<br></p>
+<p>A: 32mm x 5mm<br></p>
+<p>B: 35mm x 4mm</p>
+<p><span>*Note*</span><br data-mce-fragment="1"><span>BGF=Brazilian Gold Filled</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>BGO=Brazilian Gold Overlay</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bgf</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>Hoops</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6852010311846</id>
+      <title>A</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>1-2902</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6852010311846</id>
+      <title>B</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>1-2902</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+    <published>2021-03-18T02:18:21-04:00</published>
+    <updated>2021-03-18T02:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1169-go"/>
+    <title>(1-1169) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1169.jpg?v=1616581057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>B</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-B</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>C</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-C</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>D</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-D</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>E</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-E</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>F</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-F</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>G</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-G</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>H</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-H</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>I</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-I</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>J</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-J</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604615942310</id>
+      <title>K</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1169-go-K</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+    <published>2021-03-18T02:12:13-04:00</published>
+    <updated>2021-03-18T02:12:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1167-go"/>
+    <title>(1-1167) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1167.jpg?v=1616581059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>B</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-B</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>C</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-C</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>D</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-D</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>E</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-E</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>F</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-F</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>G</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-G</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>H</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-H</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>I</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-I</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>J</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-J</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>K</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-K</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>L</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-L</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6604609388710</id>
+      <title>M</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1167-go-M</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+    <published>2021-03-17T16:19:27-04:00</published>
+    <updated>2021-03-17T16:19:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1166-go"/>
+    <title>(1-1166) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1166.jpg?v=1616581070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>B</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-B</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>C</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-C</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>D</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-D</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>E</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-E</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>F</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-F</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>G</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-G</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>H</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-H</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>I</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-i</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>J</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-J</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>K</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-K</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>L</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-L</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6603512447142</id>
+      <title>M</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1166-GO-M</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+    <published>2021-03-10T16:51:56-05:00</published>
+    <updated>2021-03-10T16:51:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1165-go"/>
+    <title>(1-1165) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1165.jpg?v=1616581285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>h</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-h</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586120634534</id>
+      <title>i</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1165-go-i</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+    <published>2021-03-10T16:49:19-05:00</published>
+    <updated>2021-03-10T16:49:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1164-go"/>
+    <title>(1-1164) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1164.jpg?v=1616581304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>h</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-h</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>i</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-i</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>j</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-j</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>k</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-k</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586117161126</id>
+      <title>L</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1164-go-L</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+    <published>2021-03-10T16:46:23-05:00</published>
+    <updated>2021-03-10T16:46:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1163-go"/>
+    <title>(1-1163) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1163.jpg?v=1616581302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>h</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-h</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>i</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-i</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>j</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-j</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586113196198</id>
+      <title>k</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1163-go-k</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+    <published>2021-03-10T16:44:07-05:00</published>
+    <updated>2021-03-10T16:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1162-go"/>
+    <title>(1-1162) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1162.jpg?v=1616581304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586109788326</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1162-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+    <published>2021-03-10T16:41:16-05:00</published>
+    <updated>2021-03-10T16:41:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1161-go"/>
+    <title>(1-1161) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1161.jpg?v=1616581305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>h</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-h</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>i</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-i</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>j</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-j</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586106839206</id>
+      <title>k</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1161-go-k</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+    <published>2021-03-10T16:38:52-05:00</published>
+    <updated>2021-03-10T16:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1160-go"/>
+    <title>(1-1160) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1160.jpg?v=1616581307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586104184998</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1160-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+    <published>2021-03-10T16:37:43-05:00</published>
+    <updated>2021-03-10T16:37:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1159-go"/>
+    <title>(1-1159) Gold Laminate Earrings - go</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1159.jpg?v=1616581310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>A</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>B</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-B</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>C</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-C</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>D</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-D</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>E</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-E</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>F</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-F</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>G</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-G</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>H</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-H</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>I</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-I</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>J</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-J</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>K</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-K</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>L</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-L</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6586098778278</id>
+      <title>M</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1159-go-M</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580991066278</id>
+    <published>2021-03-08T21:52:40-05:00</published>
+    <updated>2021-03-08T21:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1157-2-go"/>
+    <title>(1-1157-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1157-2.jpg?v=1616581382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580991066278</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580991066278</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580991066278</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580991066278</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+    <published>2021-03-08T21:50:06-05:00</published>
+    <updated>2021-03-08T21:50:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1157-go"/>
+    <title>(1-1157) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1157.jpg?v=1616581383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>e</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>f</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>g</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580987363494</id>
+      <title>h</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1157-go-h</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580982317222</id>
+    <published>2021-03-08T21:44:42-05:00</published>
+    <updated>2021-03-08T21:44:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1156-2-go"/>
+    <title>(1-1156-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1156-2.jpg?v=1616581383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580982317222</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580982317222</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580982317222</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580982317222</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580980383910</id>
+    <published>2021-03-08T21:42:11-05:00</published>
+    <updated>2021-03-08T21:42:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1156-go"/>
+    <title>(1-1156) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1156.jpg?v=1616581383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580980383910</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580980383910</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1156-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580978679974</id>
+    <published>2021-03-08T21:40:19-05:00</published>
+    <updated>2021-03-08T21:40:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1155-2-go"/>
+    <title>(1-1155-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1155-2.jpg?v=1616581386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580978679974</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580978679974</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580978679974</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580978679974</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580977631398</id>
+    <published>2021-03-08T21:38:46-05:00</published>
+    <updated>2021-03-08T21:38:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1155-go"/>
+    <title>(1-1155) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1155.jpg?v=1616581386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580977631398</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580977631398</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580977631398</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1155-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580976320678</id>
+    <published>2021-03-08T21:36:11-05:00</published>
+    <updated>2021-03-08T21:36:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1154-2-go"/>
+    <title>(1-1154-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1154-2.jpg?v=1616581387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580976320678</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580976320678</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580976320678</id>
+      <title>c</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580976320678</id>
+      <title>d</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580975206566</id>
+    <published>2021-03-08T21:34:32-05:00</published>
+    <updated>2021-03-08T21:34:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1154-go"/>
+    <title>(1-1154) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1154.jpg?v=1616581387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580975206566</id>
+      <title>a</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580975206566</id>
+      <title>b</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>1-1154-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+    <published>2021-03-08T21:31:24-05:00</published>
+    <updated>2021-03-08T21:31:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1153-go"/>
+    <title>(1-1153) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1153.jpg?v=1616581388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>d</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>e</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>f</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580971503782</id>
+      <title>g</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580967964838</id>
+    <published>2021-03-08T21:29:42-05:00</published>
+    <updated>2021-03-08T21:29:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-11532-go"/>
+    <title>(1-1153(2)) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1153_2.jpg?v=1616581389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580967964838</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153(2)-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580967964838</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153(2)-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580967964838</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1153(2)-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+    <published>2021-03-08T21:27:33-05:00</published>
+    <updated>2021-03-08T21:27:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1152-2-go"/>
+    <title>(1-1152-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1152-2.jpg?v=1616581389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>d</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>e</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>f</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-f</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580964982950</id>
+      <title>g</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-2-go-g</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580961247398</id>
+    <published>2021-03-08T21:25:36-05:00</published>
+    <updated>2021-03-08T21:25:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1152-go"/>
+    <title>(1-1152) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1152.jpg?v=1616581389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580961247398</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580961247398</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580961247398</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1152-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+    <published>2021-03-08T21:23:52-05:00</published>
+    <updated>2021-03-08T21:23:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1151-2-go"/>
+    <title>(1-1151-2) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1151-2.jpg?v=1616581391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-2-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-2-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-2-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+      <title>d</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-2-go-d</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580959805606</id>
+      <title>e</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-2-go-e</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fantasyworldjewelry.com/products/6580958494886</id>
+    <published>2021-03-08T21:22:02-05:00</published>
+    <updated>2021-03-08T21:22:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fantasyworldjewelry.com/products/1-1151-go"/>
+    <title>(1-1151) Gold Laminate Earrings - GO</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>fwj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1868/2013/products/1-1151.jpg?v=1616581392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fwj<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please choose desired style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold Overlay</s:tag>
+    <s:tag>pdf</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580958494886</id>
+      <title>a</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-go-a</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580958494886</id>
+      <title>b</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-go-b</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fantasyworldjewelry.com/products/6580958494886</id>
+      <title>c</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>1-1151-go-c</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+</feed>
